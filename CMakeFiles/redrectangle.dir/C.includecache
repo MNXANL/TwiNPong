@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mike/Documents/PSVita/samples/sdl2/redrectangle/src/main.c
+psp2/kernel/processmgr.h
+-
+SDL2/SDL.h
+-
+

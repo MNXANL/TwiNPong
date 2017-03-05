@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-gcc   -Wl,-q -std=gnu11  -Wl,-z,nocopyreloc CMakeFiles/superlayershooter.dir/src/main.c.obj  -o superlayershooter -lSDL2 -lvita2d -lSceDisplay_stub -lSceCtrl_stub -lSceAudio_stub -lSceSysmodule_stub -lSceGxm_stub -lSceCommonDialog_stub -lm 
